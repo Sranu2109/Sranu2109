@@ -1,4 +1,4 @@
-### Hola, I'm Ranu Singh! 👋
+# Hola, I'm Ranu Singh! 👋
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sranu2109.visitor-badge)
 - 🔭 I’m currently working on my Upcoming Repository.
