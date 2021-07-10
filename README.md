@@ -1,5 +1,6 @@
 <img src="https://github.com/Sranu2109/Sranu2109/blob/main/header.png?raw=true">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E7574E&size=21&center=true&vCenter=true&lines=Goal-driven+creative+mindset!)](https://git.io/typing-svg)
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sranu2109.visitor-badge)
 - 🔭 I’m currently working on my Upcoming Repository.
