@@ -1,4 +1,5 @@
-# Hola, I'm Ranu Singh! 👋
+<img src="https://github.com/Sranu2109/Sranu2109/blob/main/header.png?raw=true">
+
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sranu2109.visitor-badge)
 - 🔭 I’m currently working on my Upcoming Repository.
