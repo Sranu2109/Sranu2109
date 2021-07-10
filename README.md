@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Web Design Projects.
 - 🤔 I’m looking for help with Outstanding Project ideas.
 - 💬 Discuss with me about any gaming related stuffs.
-- 📫 How to reach me: [Email - sranu2109@gmail.com](sranu2109@gmail.com)
+- 📫 How to reach me: [sranu2109@gmail.com](sranu2109@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I listen to songs while working.
 
